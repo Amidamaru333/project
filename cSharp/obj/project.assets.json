@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\карина\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\карина\\Desktop\\project1\\cSharp\\cSharp.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Программирование\\Project\\project\\cSharp\\cSharp.csproj",
       "projectName": "cSharp",
-      "projectPath": "C:\\Users\\карина\\Desktop\\project1\\cSharp\\cSharp.csproj",
-      "packagesPath": "C:\\Users\\карина\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\карина\\Desktop\\project1\\cSharp\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Программирование\\Project\\project\\cSharp\\cSharp.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\Программирование\\Project\\project\\cSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\карина\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
